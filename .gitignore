@@ -1,12 +1,19 @@
 .DS_Store
+<<<<<<< HEAD
 Resources
 build.log
 build
+=======
+Resources/
+build.log
+build/
+>>>>>>> 0ad935f056867ed05f04190cf218a00dadf107d2
 npm-debug.log
 tmp
 .map
 .project
 .settings
+<<<<<<< HEAD
 Thumbs.db*.a
 *.dll
 *.dylib
@@ -14,3 +21,11 @@ Thumbs.db*.a
 *.o
 *.obj
 *.so
+=======
+Thumbs.db
+*.dll
+*.dylib
+*.exe
+*.obj
+*.perf
+>>>>>>> 0ad935f056867ed05f04190cf218a00dadf107d2
